@@ -1,0 +1,5 @@
+window.CARS = [
+ {slug:'1959-cadillac-eldorado',year:'1959',make:'Cadillac',model:'Eldorado Biarritz Convertible',engine:'390 V8',transmission:'Automatic',mileage:'28,000 miles',price:'Contact for Price',status:'Available',image:'assets/images/car-1959.jpg',description:'A dramatic open-top Cadillac from the tailfin era, presented here as a demo vehicle for the Castle Auto collection.'},
+ {slug:'1960-cadillac-series-62',year:'1960',make:'Cadillac',model:'Series 62 Convertible',engine:'390 V8',transmission:'Automatic',mileage:'45,000 miles',price:'Contact for Price',status:'Available',image:'assets/images/car-1960.jpg',description:'A refined Series 62 convertible representing Cadillac luxury at the beginning of the 1960s.'},
+ {slug:'1963-cadillac-coupe-deville',year:'1963',make:'Cadillac',model:'Coupe DeVille',engine:'390 V8',transmission:'Automatic',mileage:'62,000 miles',price:'Contact for Price',status:'Available',image:'assets/images/car-1963.jpg',description:'A classic Coupe DeVille with unmistakable American proportions and period presence.'}
+];
